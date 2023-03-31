@@ -6,12 +6,12 @@ Bitwise Operator in C
 We have different types of bitwise operators in the C programming language. The following is the list of the bitwise operators:
 
 Operator Meaning of operator
-&	Bitwise AND operator
-| Bitwise OR operator
-^	Bitwise exclusive OR operator
-~ One's complement operator (unary operator)
-<< Left shift operator
->> Right shift operator
+- &	Bitwise AND operator
+- | Bitwise OR operator
+- ^	Bitwise exclusive OR operator
+- ~ One's complement operator 
+- << Left shift operator
+- >> Right shift operator
 
 Bitwise AND operator
 - Bitwise AND operator is denoted by the single ampersand sign (&). Two integer operands are written on both sides of the (&) operator. If the corresponding bits of both the operands are 1, then the output of the bitwise AND operation is 1; otherwise, the output would be 0.
