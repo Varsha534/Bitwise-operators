@@ -8,7 +8,7 @@ int main()
 	printf("Enter 1st number \n");
 	scanf("%d", &num1);
 	
-	printf("Enter 1st number \n");
+	printf("Enter 2nd number \n");
 	scanf("%d", &num2);
 	
 	ans= num1 ^ num2;
