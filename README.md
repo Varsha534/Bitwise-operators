@@ -20,4 +20,4 @@ Bitwise OR operator
 - The bitwise OR operator is represented by a single vertical sign (|). Two integer operands are written on both sides of the (|) symbol. If the bit value of any of the operand is 1, then the output would be 1, otherwise 0.
 
 Bitwise XOR (exclusive OR) Operator ^
-The result of bitwise XOR operator is 1 if the corresponding bits of two operands are opposite. It is denoted by ^.
+- The result of bitwise XOR operator is 1 if the corresponding bits of two operands are opposite. It is denoted by ^.
